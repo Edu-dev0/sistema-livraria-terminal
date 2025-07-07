@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # 📚 Livraria Terminal 
 
 Sistema de gerenciamento de livros desenvolvido em Python com interface de linha de comando. Permite realizar operações de cadastro, consulta e remoção de livros de forma prática e didática.
@@ -36,16 +35,7 @@ python livraria.py
 🔗  GitHub: https://github.com/Edu-dev0
 
 
+---
 
-
-
-
-
-=======
 # sistema-livraria-terminal
 Sistema de gerenciamento de livros via terminal feito em Python. Permite cadastrar, consultar e remover livros de forma simples e interativa.
->>>>>>> 7e3ea19950d84141eea9bed5b5f5d8b0184ca826
-=======
-# sistema-livraria-terminal
-Sistema de gerenciamento de livros via terminal feito em Python. Permite cadastrar, consultar e remover livros de forma simples e interativa.
->>>>>>> 7e3ea19950d84141eea9bed5b5f5d8b0184ca826
